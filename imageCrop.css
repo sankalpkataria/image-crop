@@ -1,0 +1,37 @@
+.logo {
+    width: 100px;
+    height: 100px;
+    margin-top: 300px;
+  }
+  
+  .img{
+    height: 360px !important;
+    width: 360px !important;
+    margin: auto;
+  }
+  
+  .crop {
+    float: left;
+    width: 100%;
+    height: auto;
+    position: absolute;
+    margin-top: 50px;
+  }
+
+  .croppie-container .cr-viewport, .croppie-container .cr-vp-square {
+    border: none;
+    border-radius: 50% !important;
+  }
+
+  .cr-resizer {
+    border-radius: 50% !important;
+  }
+  .cropped-img{
+    height: 200px;
+    width: 200px;
+  }
+
+  .btns {
+    margin: 48px 0;
+    text-align: center;
+  }
